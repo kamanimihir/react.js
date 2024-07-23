@@ -1,0 +1,18 @@
+
+.heder{
+  background-color: aqua;
+  width: 100%;
+  height: 50px;
+  display: flex;
+  align-items: center;
+}
+
+.heder-ditel{
+  display: flex;
+  gap: 30px;
+
+}
+.heder-ditel li{
+  list-style: none;
+  /* margin-top: 14px; */
+}
